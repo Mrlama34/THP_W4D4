@@ -12,7 +12,7 @@ Installation :
 
 3- Exécutez 'bundle install' 
 
-4- Lancer le serveur rails avec la commande 'rails server'
+4- Lancez le serveur rails avec la commande 'rails server'
 
 5- A vos corrections ! :D
 
